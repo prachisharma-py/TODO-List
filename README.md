@@ -1,4 +1,4 @@
-🗂️ Project: Todo — A Minimalistic & Rewarding To-Do List App
+### 🗂️ Project: Todo — A Minimalistic & Rewarding To-Do List App
 
 Welcome to Todo List, a lightweight and beautiful task management web application built with Flask and styled using Bootstrap. Designed to be minimal yet rewarding, MyTodo not only helps you keep track of your daily tasks but also celebrates your productivity with a fun Mario animation when all your tasks are complete. 🎉
 
